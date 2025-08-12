@@ -1,0 +1,1 @@
+<h1 class="bg-slate-700"></h1>
